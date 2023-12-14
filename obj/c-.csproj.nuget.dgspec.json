@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\c-.csproj": {}
+    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#-1\\c-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\c-.csproj": {
+    "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#-1\\c-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\c-.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#-1\\c-.csproj",
         "projectName": "c-",
-        "projectPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\c-.csproj",
+        "projectPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#-1\\c-.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Downloads\\aline\\vs code\\c-\\C#-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
